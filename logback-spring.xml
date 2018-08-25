@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration scan="true" scanPeriod="60 seconds" debug="false">
-    123
+
     <contextName>logback-demo</contextName>
 
     <!--输出到控制台 ConsoleAppender-->
